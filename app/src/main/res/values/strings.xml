@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appListas</string>
+    <string name="desc_kiwi">El kiwi es la baya de la enredadera Actinidia deliciosa. Es originaria de una gran área de China, sobre todo de los bosques del valle del río Yangtsé.
+                             Introducida en Nueva Zelanda en 1904, fue cultivada desde entonces en muchas regiones templadas por su fruto comestible.</string>
+    <string name="desc_limon">Es un árbol perenne, a menudo con espinas, que puede alcanzar los cuatro metros de altura, con copa abierta muy ramificada.
+                              Sus hojas son alternas, simples, coriáceas, con limbo elíptico de margen más o menos cerrado, glanduloso; a su vez contiene una nervadura penninervial.</string>
+    <string name="desc_manzana">La manzana es el fruto comestible de la especie Malus domestica, llamada comúnmente manzano.
+                                Es una fruta pomácea de forma redonda y sabor más o menos dulce, dependiendo de la variedad.</string>
+    <string name="desc_naranja">La naranja es una fruta cítrica obtenida del naranjo dulce, del naranjo amargo y de naranjos de otras variedades o híbridos, de origen asiático.</string>
+    <string name="desc_platano">El banano no es un árbol, sino una megaforbia, una hierba perenne de gran tamaño. Como las demás especies de Musa, carece de verdadero tronco.</string>
+    <string name="desc_uva">La uva​ es la común denominación que reciben los frutos formados en los racimos de la vid.​​ Usada mundialmente para su fermentación, ya que esta da lugar al vino.​​​
+                            Sembradas en viña crecen agrupadas en las parras de las vides entre 6 y 300 uvas por racimo</string>
+    <string name="desc_btn1">Regresar</string>
+    <string name="todo">TODO</string>
+</resources>
